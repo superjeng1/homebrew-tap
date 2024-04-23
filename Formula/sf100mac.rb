@@ -1,4 +1,4 @@
-class sf100mac < Formula
+class Sf100mac < Formula
   desc "Linux software for Dediprog SF100 and SF600 SPI flash programmers"
   homepage "https://github.com/DediProgSW/SF100Linux"
   url "https://github.com/DediProgSW/SF100Linux/archive/refs/tags/V1.14.20.x.tar.gz"
